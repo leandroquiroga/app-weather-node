@@ -1,6 +1,6 @@
 {
   "name": "app-clima-node",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Aplicacion del clima desde Node.js",
   "scripts": {
     "start": "node app.js"
