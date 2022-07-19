@@ -51,6 +51,7 @@ Luego de ingresar la ciudad, nos muestra una lista de 5 ciudades aproximadas a l
 ![Listado-ciudades](https://user-images.githubusercontent.com/80013958/179822153-ace11eb6-4d3a-4085-9582-967bd6379fbb.png)
 
 Y seleccionamos la correcta: 
+
 ![ciudad-seleccionada](https://user-images.githubusercontent.com/80013958/179822162-5a745f48-fc40-484d-aabe-f56ede3eb373.png)
 
 
