@@ -1,0 +1,19 @@
+{
+  "name": "app-clima-node",
+  "version": "0.0.1",
+  "description": "Aplicacion del clima desde Node.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "main": "app.js",
+  "author": "Leandro Quiroga",
+  "private": "true",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "color": "^4.2.3",
+    "date-and-time": "^2.4.0",
+    "dotenv": "^16.0.1",
+    "inquirer": "7.3.3"
+  }
+}
